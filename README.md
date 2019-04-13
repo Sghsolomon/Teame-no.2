@@ -17,5 +17,5 @@ Button for active threat, safe, and monitor mode
 Input textbox for family and friends’ contact information
 
 Technology Used:
-Twilio: SMS, Video, and phone call API to mass alert friends
+Text Local Api: SMS, Video, and phone call API to mass alert friends
 Google API —Geolocation for monitoring location in realtime 
