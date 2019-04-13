@@ -1,4 +1,5 @@
 //code for login button pressed to do geo locate
+document.querySelector.
 
 
 // the geolocating API
