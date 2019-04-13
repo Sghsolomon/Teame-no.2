@@ -1,3 +1,6 @@
+//code for login button pressed to do geo locate
+
+
 // the geolocating API
 //getcurrentposition method with the parameter of position
 navigator.geolocation.getCurrentPosition(function(position) {
