@@ -1,6 +1,6 @@
 //code for login button pressed to do geo locate
 document.querySelector("#container").addEventListener("click", function(event) {
-  if(event.target.tagName == "BUTTON") 
+  if(event.target.tagName == "BUTTON")
 }
 
 // the geolocating API
