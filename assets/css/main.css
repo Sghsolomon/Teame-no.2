@@ -18,3 +18,7 @@ footer {
   float: bottom;
   bottom: 0;
 }
+
+.signIn {
+  margin: auto;
+}
